@@ -58,10 +58,3 @@ O **Projeto Anna Bella** é um site institucional fictício desenvolvido para pr
 ```
 
 ---
-
-## 🚀 Próximos passos
-
-* Implementar versão mobile-friendly.
-* Adicionar interatividade com JavaScript.
-* Melhorar a tipografia e responsividade do layout.
-* Criar formulário de contato funcional com validação.
